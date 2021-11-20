@@ -1,4 +1,6 @@
-/**
+package JavaClass;
+
+/*
  * Car
  * 
  * String make
@@ -6,4 +8,10 @@
  * String color
  * BigDecimal price
  * 
+ * 
  */
+
+public class Car {
+
+
+}
