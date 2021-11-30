@@ -1,7 +1,7 @@
 # refresh-java-coding
 
 Refresh my java skills and Knowledges
-This is about 
+This is about to refresh my java knowledges
 
 ## Built 
 
