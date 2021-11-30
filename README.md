@@ -1,6 +1,7 @@
 # refresh-java-coding
 
 Refresh my java skills and Knowledges
+This is about 
 
 ## Built 
 
